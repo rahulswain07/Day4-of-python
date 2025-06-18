@@ -36,9 +36,6 @@ Master string handling in Python to prepare for real-world projects like chatbot
 This is Day 4 of my 100-day Python learning challenge.
 Follow my journey as I learn Python step by step to build my own AI tools and startup. 🚀
 
-🎥 YouTube
-📌 Posting daily Python shorts on YouTube!
-👉 [https://youtube.com/@codewithrahul07?si=LN3vFKHF-A-w3Or-]
 
 
 
